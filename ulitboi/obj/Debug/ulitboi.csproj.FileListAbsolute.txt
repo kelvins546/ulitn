@@ -1,0 +1,12 @@
+D:\kelvin files\source\repos\ulitboi\ulitboi\bin\Debug\ulitboi.exe.config
+D:\kelvin files\source\repos\ulitboi\ulitboi\bin\Debug\ulitboi.exe
+D:\kelvin files\source\repos\ulitboi\ulitboi\bin\Debug\ulitboi.pdb
+D:\kelvin files\source\repos\ulitboi\ulitboi\bin\Debug\Guna.UI.dll
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.csproj.AssemblyReference.cache
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.login.resources
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.Properties.Resources.resources
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.csproj.GenerateResource.cache
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.csproj.CoreCompileInputs.cache
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.csproj.CopyComplete
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.exe
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.pdb
